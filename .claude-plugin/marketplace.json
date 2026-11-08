@@ -1,0 +1,11 @@
+{
+  "name": "reel-montage",
+  "owner": { "name": "Yuriy Solar" },
+  "plugins": [
+    {
+      "name": "reel-montage",
+      "source": "./",
+      "description": "Монтаж вертикальных роликов с живым показом в FableCut."
+    }
+  ]
+}

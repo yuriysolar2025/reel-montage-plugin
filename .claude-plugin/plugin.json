@@ -1,0 +1,9 @@
+{
+  "name": "reel-montage",
+  "version": "0.1.0",
+  "description": "Монтаж вертикальных роликов (Reels/Shorts) из своих видео, фото и голосового: ffmpeg-сборка, субтитры, озвучка, проверка распознаванием и живой показ в браузерном редакторе FableCut.",
+  "license": "MIT",
+  "author": {
+    "name": "Yuriy Solar"
+  }
+}

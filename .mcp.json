@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "fablecut": {
+      "command": "npx",
+      "args": ["-y", "fablecut@1.18.0", "mcp"],
+      "env": {
+        "FABLECUT_PORT": "${FABLECUT_PORT:-7777}",
+        "PORT": "${FABLECUT_PORT:-7777}"
+      }
+    }
+  }
+}

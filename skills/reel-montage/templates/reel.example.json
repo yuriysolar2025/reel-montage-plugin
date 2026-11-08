@@ -1,0 +1,21 @@
+{
+  "title": "День 1",
+  "out": "out/day1.mp4",
+  "work": "work/day1",
+  "voice": "work/day1/voice.mp3",
+  "music": "music/track.mp3",
+  "music_db": -22,
+  "clips": [
+    {"src": "raw/IMG_0001.MOV", "ss": 3.0, "start": 0.0,  "end": 2.8},
+    {"src": "raw/glasses_ride.mp4", "ss": 41.0, "start": 2.8, "end": 5.6, "x": 0.5},
+    {"src": "raw/drive.mp4", "ss": 10.0, "start": 5.6, "end": 8.0, "speed": 2},
+    {"src": "raw/IMG_0002.JPG", "start": 8.0, "end": 10.5, "kind": "photo"}
+  ],
+  "subs": [
+    {"start": 0.2, "end": 2.7, "text": "День первый.\nЛетим в отпуск."},
+    {"start": 2.8, "end": 5.5, "text": "С утра — на байк\nи к морю."}
+  ],
+  "stickers": [
+    {"src": "work/day1/sticker.png", "start": 6.0, "end": 7.6, "width": 600}
+  ]
+}
