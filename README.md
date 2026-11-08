@@ -48,7 +48,7 @@ export ELEVENLABS_VOICE_ID=id_твоего_голоса
 Если он выложен на GitHub:
 
 ```
-/plugin marketplace add <владелец>/<репозиторий>
+/plugin marketplace add yuriysolar2025/reel-montage-plugin
 /plugin install reel-montage@reel-montage
 ```
 
